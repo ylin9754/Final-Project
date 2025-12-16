@@ -41,9 +41,9 @@ Once the virtual environment is activated, install the necessary dependencies by
 
 ```bash
 pip install -r requirements.txt
+```
 
-
-Step 3: Run the Scripts
+### Step 3: Run the Scripts
 
 There are two main Python scripts to run:
 
@@ -59,4 +59,5 @@ daily_data.py: This script reads the cleaned data, performs analysis on daily te
 Run this script using:
 
 python daily_data.py
+
 
